@@ -1,0 +1,15 @@
+Bordeaux
+Brest
+Clermont
+Grenoble
+Lille
+Lyon
+Marseille
+Montpellier
+Nantes
+Nice
+Paris
+Rennes
+Strasbourg
+Toulouse
+Vichy
